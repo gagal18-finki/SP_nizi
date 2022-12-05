@@ -1,0 +1,5 @@
+/Users/eagleitsolutions/CLionProjects/nizi/cmake-build-debug/CMakeFiles/pr_1.dir
+/Users/eagleitsolutions/CLionProjects/nizi/cmake-build-debug/CMakeFiles/pr_2.dir
+/Users/eagleitsolutions/CLionProjects/nizi/cmake-build-debug/CMakeFiles/pr_3.dir
+/Users/eagleitsolutions/CLionProjects/nizi/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/eagleitsolutions/CLionProjects/nizi/cmake-build-debug/CMakeFiles/rebuild_cache.dir

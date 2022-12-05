@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "nizi",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "pr_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pr_1-Debug-a836885748174a260b76.json",
+					"name" : "pr_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pr_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pr_2-Debug-100ae9f6d68954ea5160.json",
+					"name" : "pr_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pr_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pr_3-Debug-d1acac6045cfdb8629f0.json",
+					"name" : "pr_3",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/eagleitsolutions/CLionProjects/nizi/cmake-build-debug",
+		"source" : "/Users/eagleitsolutions/CLionProjects/nizi"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
