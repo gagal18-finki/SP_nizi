@@ -1,5 +1,13 @@
 /Users/eagleitsolutions/CLionProjects/nizi/cmake-build-debug/CMakeFiles/pr_1.dir
 /Users/eagleitsolutions/CLionProjects/nizi/cmake-build-debug/CMakeFiles/pr_2.dir
 /Users/eagleitsolutions/CLionProjects/nizi/cmake-build-debug/CMakeFiles/pr_3.dir
+/Users/eagleitsolutions/CLionProjects/nizi/cmake-build-debug/CMakeFiles/aud_1.dir
+/Users/eagleitsolutions/CLionProjects/nizi/cmake-build-debug/CMakeFiles/aud_2.dir
+/Users/eagleitsolutions/CLionProjects/nizi/cmake-build-debug/CMakeFiles/aud_3.dir
+/Users/eagleitsolutions/CLionProjects/nizi/cmake-build-debug/CMakeFiles/aud_4.dir
+/Users/eagleitsolutions/CLionProjects/nizi/cmake-build-debug/CMakeFiles/audM_1.dir
+/Users/eagleitsolutions/CLionProjects/nizi/cmake-build-debug/CMakeFiles/audM_2.dir
+/Users/eagleitsolutions/CLionProjects/nizi/cmake-build-debug/CMakeFiles/audM_3.dir
+/Users/eagleitsolutions/CLionProjects/nizi/cmake-build-debug/CMakeFiles/starter_array.dir
 /Users/eagleitsolutions/CLionProjects/nizi/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/eagleitsolutions/CLionProjects/nizi/cmake-build-debug/CMakeFiles/rebuild_cache.dir

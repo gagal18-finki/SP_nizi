@@ -130,6 +130,254 @@ build pr_3: C_EXECUTABLE_LINKER__pr_3_Debug CMakeFiles/pr_3.dir/pr_3.c.o
   TARGET_FILE = pr_3
   TARGET_PDB = pr_3.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target aud_1
+
+
+#############################################
+# Order-only phony target for aud_1
+
+build cmake_object_order_depends_target_aud_1: phony || CMakeFiles/aud_1.dir
+
+build CMakeFiles/aud_1.dir/aud_1.c.o: C_COMPILER__aud_1_Debug /Users/eagleitsolutions/CLionProjects/nizi/aud_1.c || cmake_object_order_depends_target_aud_1
+  DEP_FILE = CMakeFiles/aud_1.dir/aud_1.c.o.d
+  FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu99
+  OBJECT_DIR = CMakeFiles/aud_1.dir
+  OBJECT_FILE_DIR = CMakeFiles/aud_1.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target aud_1
+
+
+#############################################
+# Link the executable aud_1
+
+build aud_1: C_EXECUTABLE_LINKER__aud_1_Debug CMakeFiles/aud_1.dir/aud_1.c.o
+  FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/aud_1.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = aud_1
+  TARGET_PDB = aud_1.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target aud_2
+
+
+#############################################
+# Order-only phony target for aud_2
+
+build cmake_object_order_depends_target_aud_2: phony || CMakeFiles/aud_2.dir
+
+build CMakeFiles/aud_2.dir/aud_2.c.o: C_COMPILER__aud_2_Debug /Users/eagleitsolutions/CLionProjects/nizi/aud_2.c || cmake_object_order_depends_target_aud_2
+  DEP_FILE = CMakeFiles/aud_2.dir/aud_2.c.o.d
+  FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu99
+  OBJECT_DIR = CMakeFiles/aud_2.dir
+  OBJECT_FILE_DIR = CMakeFiles/aud_2.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target aud_2
+
+
+#############################################
+# Link the executable aud_2
+
+build aud_2: C_EXECUTABLE_LINKER__aud_2_Debug CMakeFiles/aud_2.dir/aud_2.c.o
+  FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/aud_2.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = aud_2
+  TARGET_PDB = aud_2.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target aud_3
+
+
+#############################################
+# Order-only phony target for aud_3
+
+build cmake_object_order_depends_target_aud_3: phony || CMakeFiles/aud_3.dir
+
+build CMakeFiles/aud_3.dir/aud_3.c.o: C_COMPILER__aud_3_Debug /Users/eagleitsolutions/CLionProjects/nizi/aud_3.c || cmake_object_order_depends_target_aud_3
+  DEP_FILE = CMakeFiles/aud_3.dir/aud_3.c.o.d
+  FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu99
+  OBJECT_DIR = CMakeFiles/aud_3.dir
+  OBJECT_FILE_DIR = CMakeFiles/aud_3.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target aud_3
+
+
+#############################################
+# Link the executable aud_3
+
+build aud_3: C_EXECUTABLE_LINKER__aud_3_Debug CMakeFiles/aud_3.dir/aud_3.c.o
+  FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/aud_3.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = aud_3
+  TARGET_PDB = aud_3.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target aud_4
+
+
+#############################################
+# Order-only phony target for aud_4
+
+build cmake_object_order_depends_target_aud_4: phony || CMakeFiles/aud_4.dir
+
+build CMakeFiles/aud_4.dir/aud_4.c.o: C_COMPILER__aud_4_Debug /Users/eagleitsolutions/CLionProjects/nizi/aud_4.c || cmake_object_order_depends_target_aud_4
+  DEP_FILE = CMakeFiles/aud_4.dir/aud_4.c.o.d
+  FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu99
+  OBJECT_DIR = CMakeFiles/aud_4.dir
+  OBJECT_FILE_DIR = CMakeFiles/aud_4.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target aud_4
+
+
+#############################################
+# Link the executable aud_4
+
+build aud_4: C_EXECUTABLE_LINKER__aud_4_Debug CMakeFiles/aud_4.dir/aud_4.c.o
+  FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/aud_4.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = aud_4
+  TARGET_PDB = aud_4.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target audM_1
+
+
+#############################################
+# Order-only phony target for audM_1
+
+build cmake_object_order_depends_target_audM_1: phony || CMakeFiles/audM_1.dir
+
+build CMakeFiles/audM_1.dir/audM_1.c.o: C_COMPILER__audM_1_Debug /Users/eagleitsolutions/CLionProjects/nizi/audM_1.c || cmake_object_order_depends_target_audM_1
+  DEP_FILE = CMakeFiles/audM_1.dir/audM_1.c.o.d
+  FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu99
+  OBJECT_DIR = CMakeFiles/audM_1.dir
+  OBJECT_FILE_DIR = CMakeFiles/audM_1.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target audM_1
+
+
+#############################################
+# Link the executable audM_1
+
+build audM_1: C_EXECUTABLE_LINKER__audM_1_Debug CMakeFiles/audM_1.dir/audM_1.c.o
+  FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/audM_1.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = audM_1
+  TARGET_PDB = audM_1.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target audM_2
+
+
+#############################################
+# Order-only phony target for audM_2
+
+build cmake_object_order_depends_target_audM_2: phony || CMakeFiles/audM_2.dir
+
+build CMakeFiles/audM_2.dir/audM_2.c.o: C_COMPILER__audM_2_Debug /Users/eagleitsolutions/CLionProjects/nizi/audM_2.c || cmake_object_order_depends_target_audM_2
+  DEP_FILE = CMakeFiles/audM_2.dir/audM_2.c.o.d
+  FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu99
+  OBJECT_DIR = CMakeFiles/audM_2.dir
+  OBJECT_FILE_DIR = CMakeFiles/audM_2.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target audM_2
+
+
+#############################################
+# Link the executable audM_2
+
+build audM_2: C_EXECUTABLE_LINKER__audM_2_Debug CMakeFiles/audM_2.dir/audM_2.c.o
+  FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/audM_2.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = audM_2
+  TARGET_PDB = audM_2.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target audM_3
+
+
+#############################################
+# Order-only phony target for audM_3
+
+build cmake_object_order_depends_target_audM_3: phony || CMakeFiles/audM_3.dir
+
+build CMakeFiles/audM_3.dir/audM_3.c.o: C_COMPILER__audM_3_Debug /Users/eagleitsolutions/CLionProjects/nizi/audM_3.c || cmake_object_order_depends_target_audM_3
+  DEP_FILE = CMakeFiles/audM_3.dir/audM_3.c.o.d
+  FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu99
+  OBJECT_DIR = CMakeFiles/audM_3.dir
+  OBJECT_FILE_DIR = CMakeFiles/audM_3.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target audM_3
+
+
+#############################################
+# Link the executable audM_3
+
+build audM_3: C_EXECUTABLE_LINKER__audM_3_Debug CMakeFiles/audM_3.dir/audM_3.c.o
+  FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/audM_3.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = audM_3
+  TARGET_PDB = audM_3.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target starter_array
+
+
+#############################################
+# Order-only phony target for starter_array
+
+build cmake_object_order_depends_target_starter_array: phony || CMakeFiles/starter_array.dir
+
+build CMakeFiles/starter_array.dir/starter_array.c.o: C_COMPILER__starter_array_Debug /Users/eagleitsolutions/CLionProjects/nizi/starter_array.c || cmake_object_order_depends_target_starter_array
+  DEP_FILE = CMakeFiles/starter_array.dir/starter_array.c.o.d
+  FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu99
+  OBJECT_DIR = CMakeFiles/starter_array.dir
+  OBJECT_FILE_DIR = CMakeFiles/starter_array.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target starter_array
+
+
+#############################################
+# Link the executable starter_array
+
+build starter_array: C_EXECUTABLE_LINKER__starter_array_Debug CMakeFiles/starter_array.dir/starter_array.c.o
+  FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/starter_array.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = starter_array
+  TARGET_PDB = starter_array.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -164,7 +412,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/eagleitsolutions/CLionProjects/nizi/cmake-build-debug
 
-build all: phony pr_1 pr_2 pr_3
+build all: phony pr_1 pr_2 pr_3 aud_1 aud_2 aud_3 aud_4 audM_1 audM_2 audM_3 starter_array
 
 # =============================================================================
 # Built-in targets
